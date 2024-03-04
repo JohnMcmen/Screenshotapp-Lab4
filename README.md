@@ -11,7 +11,8 @@ Time spent: **3** hours spent in total
 
 Here's a walkthrough of implemented required features:
 
-![5bkeAsx](https://github.com/JohnMcmen/Screenshotapp-Lab4/assets/98662843/c9e45e2a-d91f-4156-97c8-25808e4fef77)
+![3GmhOsu](https://github.com/JohnMcmen/Screenshotapp-Lab4/assets/98662843/a3f5f567-0457-4987-92f6-d9ea811deab2)
+
 
 Gif was made with Screen to GIf
 
